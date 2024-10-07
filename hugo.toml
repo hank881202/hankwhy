@@ -1,4 +1,4 @@
-baseURL = "https://hankwebsite.com/"
+baseURL = "https://hankwhy.com/"
 languageCode = 'en-us'
 title = "Hank's Website"
 theme = "pehtheme-hugo-main"
